@@ -7,6 +7,6 @@ package com.codeduck;
  * @Content:
  */
 public class Stu {
+    String username;
     private int num;
-    private int username;
 }
