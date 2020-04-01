@@ -7,4 +7,5 @@ package com.codeduck;
  * @Content:
  */
 public class Stu {
+    String username;
 }
